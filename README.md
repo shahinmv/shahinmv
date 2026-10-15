@@ -1,6 +1,6 @@
 ### Hi, I'm Shahin 👋
 
-AI engineer at **[JL Tech](https://jltech.az)**, working on **Fiscal**, an accounting, banking and tax platform for Azerbaijani businesses. My day job covers the Django/DRF backend, LLM features (an in-app copilot, invoice extraction, counterparty matching) and the infrastructure that keeps it running.
+Co-founder of **Fiscal**, an accounting, banking and tax platform, and AI engineer at **[JL Tech](https://jltech.az)**. I work across the Django/DRF backend, LLM features (an in-app copilot, invoice extraction, counterparty matching) and the infrastructure that keeps it running.
 
 - 🎓 MSc Data Science, Queen Mary University of London · BSc Computer Science, Jacobs University Bremen
 - 🧠 Interested in LLM systems, local and distributed inference, and ML that ships to production
